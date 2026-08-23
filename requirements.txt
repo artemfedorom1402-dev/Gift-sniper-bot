@@ -1,0 +1,3 @@
+aiogram>=3.7
+tonnelmp
+fake-useragent>=2.2.0
